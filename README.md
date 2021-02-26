@@ -21,4 +21,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+In the Part 1:
+1. changed the headers to 'Lucida Console',  monospace font family.
+2. changed the background image to a paper-like one for readers to read the book like a paper.
+3. added frames to each paragraph to let readers to focus on each paragraph.
+4. increased the image size, added radius of images
+5. changed paragraph font to 'Times New Roman', Times, serif;
+6. change the color to color: #2f2f2f;
+7. change image caption font size to small.
+
+In the Part 2:
 
